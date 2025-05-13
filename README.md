@@ -1,8 +1,4 @@
-👋 Hi, I’m @cryptic-mystic, aka John Crowe IRL!
-
-👀 I’m interested in code, music, and camping / hiking! 🏕
-
-🌱 Currently I work for Leafly, and I make tools for dispensaries to succeed on Leafly's platform!
+👋 Hi, I’m @cryptic-mystic. If I've left a mean comment on your PR or GH issue, you probably deserved it.
 
 <!---
 cryptic-mystic/cryptic-mystic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
